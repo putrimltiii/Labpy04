@@ -27,6 +27,6 @@ uts: 35%, uas: 35%)
 
 # Flowchart
 
-
+[Flowchart Baspem (Per-9).pdf](https://github.com/user-attachments/files/17736306/Flowchart.Baspem.Per-9.pdf)
 
 
