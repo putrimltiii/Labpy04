@@ -16,3 +16,4 @@ uts: 35%, uas: 35%)
 
 • Buat flowchart dan penjelasan programnya pada README.md. • Commit dan push repository ke github.
 
+![BESPEM 09 (kode 1)](https://github.com/user-attachments/assets/a8932eb2-74aa-45b1-b116-839452d551ab)
