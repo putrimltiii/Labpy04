@@ -6,7 +6,7 @@
 
 • Buat sebuah list sebanyak 5 elemen dengan nilai bebas
 
-• akses list:
+• Akses list:
 
       • tampilkan elemen ke 3
 
@@ -14,13 +14,13 @@
 
       • ambil elemen terakhir
 
-• ubah elemen list:
+• Ubah elemen list:
 
       • ubah elemen ke 4 dengan nilai lainnya
 
       • ubah elemen ke 4 sampai dengan elemen terakhir
 
-• tambah elemen list:
+• Tambah elemen list:
 
       • ambil 2 bagian dari list pertama (A) dan jadikan list ke 2 (B)
 
