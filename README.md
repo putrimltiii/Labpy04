@@ -32,7 +32,7 @@
 
 Kode Program dan Hasil Output:
 
-
+![baspem 09](https://github.com/user-attachments/assets/2016c006-622b-4117-b40a-678a3786fe34)
 
 
 # Tugas Praktikum
