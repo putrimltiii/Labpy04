@@ -27,6 +27,4 @@ uts: 35%, uas: 35%)
 
 # Flowchart
 
-![WhatsApp Image 2024-10-27 at 08 27 21_dcfb6118](https://github.com/user-attachments/assets/80c14f7e-0f50-42f2-b2eb-af2303dc0879)
-
 
